@@ -8,176 +8,86 @@
     {
         "id": 2,
         "round": "General Knowledge",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What plant is featured on the Canadian flag?",
+        "answer": "Maple"
     },
     {
         "id": 3,
         "round": "General Knowledge",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "Eric Carle wrote a series of children's books about A Very Hungry ... what?",
+        "answer": "Caterpillar"
     },
     {
         "id": 4,
         "round": "General Knowledge",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What is the world’s largest land mammal?",
+        "answer": "Elephant"
     },
     {
         "id": 5,
         "round": "General Knowledge",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 6,
-        "round": "General Knowledge",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 7,
-        "round": "General Knowledge",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 8,
-        "round": "General Knowledge",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 9,
-        "round": "General Knowledge",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 10,
-        "round": "General Knowledge",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "Rio de Janeiro is a city in which South American country?",
+        "answer": "Brazil"
     },
     {
         "id": 11,
         "round": "Music",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "Who was the lead singer of the band Queen until his death in 1991",
+        "answer": "Freddie Mercury"
     },
     {
         "id": 12,
         "round": "Music",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "Baby, Sporty, Ginger, Posh, and Scary are the nicknames of which UK girl band?",
+        "answer": "Spice Girls"
     },
     {
         "id": 13,
         "round": "Music",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What is the name of the UK National Anthem?",
+        "answer": "God Save The Queen"
     },
     {
         "id": 14,
         "round": "Music",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "On what day of the week is the Official UK Singles Chart announced?",
+        "answer": "Friday"
     },
     {
         "id": 15,
         "round": "Music",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 16,
-        "round": "Music",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 17,
-        "round": "Music",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 18,
-        "round": "Music",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 19,
-        "round": "Music",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 20,
-        "round": "Music",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "Which famous male singer released a song called 'There's Nothing Holdin' Me Back'?",
+        "answer": "Shawn Mendes"
     },
     {
         "id": 21,
         "round": "Star Trek",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What type of tea does Jean-Luc Picard prefer?",
+        "answer": "Earl Grey (hot)"
     },
     {
         "id": 22,
         "round": "Star Trek",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "Who is the Chief Morale Officer aboard the USS Voyager",
+        "answer": "Neelix"
     },
     {
         "id": 23,
         "round": "Star Trek",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What species is known for their warnings \"Resistance is Futile\" and \"You will be assimilated\"?",
+        "answer": "The Borg"
     },
     {
         "id": 24,
         "round": "Star Trek",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What is the first name of Captain Archer of the USS Enterprise NX01?",
+        "answer": "Jonathan"
     },
     {
         "id": 25,
         "round": "Star Trek",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 26,
-        "round": "Star Trek",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 27,
-        "round": "Star Trek",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 28,
-        "round": "Star Trek",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 29,
-        "round": "Star Trek",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 30,
-        "round": "Star Trek",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What furry species is known for the fact that it is born pregnant?",
+        "answer": "Tribble"
     },
     {
         "id": 31,
@@ -188,236 +98,116 @@
     {
         "id": 32,
         "round": "History",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "In which city was Titanic built?",
+        "answer": "Belfast"
     },
     {
         "id": 33,
         "round": "History",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "How many children did Queen Victoria have?",
+        "answer": "Nine"
     },
     {
         "id": 34,
         "round": "History",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What year did World War One begin?",
+        "answer": 1914
     },
     {
         "id": 35,
         "round": "History",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 36,
-        "round": "History",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 37,
-        "round": "History",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 38,
-        "round": "History",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 39,
-        "round": "History",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 40,
-        "round": "History",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What nationality was the famous explorer Captain James Cook?",
+        "answer": "British"
     },
     {
         "id": 41,
         "round": "Sport",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What is the highest score possible in darts, in a single turn?",
+        "answer": "One hundred and eighty"
     },
     {
         "id": 42,
         "round": "Sport",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "Which Olympic sport is played with stones and brooms?",
+        "answer": "Curling"
     },
     {
         "id": 43,
         "round": "Sport",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What colours make up the Olympic rings?",
+        "answer": "Blue, Black, Red, Yellow and Green"
     },
     {
         "id": 44,
         "round": "Sport",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "How many gold medals did team GB win at the Sochi Winter Olympics in 2014?",
+        "answer": "One (Lizzy Yarnold, Skeleton)"
     },
     {
         "id": 45,
         "round": "Sport",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 46,
-        "round": "Sport",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 47,
-        "round": "Sport",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 48,
-        "round": "Sport",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 49,
-        "round": "Sport",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 50,
-        "round": "Sport",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "Who is the manager of Liverpool Football Club",
+        "answer": "Jurgen Klopp"
     },
     {
         "id": 51,
         "round": "The United Kingdom",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What city is the capital of the UK",
+        "answer": "London"
     },
     {
         "id": 52,
         "round": "The United Kingdom",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What is the name of the flag of the UK",
+        "answer": "Union flag/Union Jack"
     },
     {
         "id": 53,
         "round": "The United Kingdom",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What city is the capital of Wales",
+        "answer": "Cardiff"
     },
     {
         "id": 54,
         "round": "The United Kingdom",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What is the London residence of Her Majesty The Queen?",
+        "answer": "Buckingham Palace"
     },
     {
         "id": 55,
         "round": "The United Kingdom",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 56,
-        "round": "The United Kingdom",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 57,
-        "round": "The United Kingdom",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 58,
-        "round": "The United Kingdom",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 59,
-        "round": "The United Kingdom",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 60,
-        "round": "The United Kingdom",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What city is the capital of Northern Ireland?",
+        "answer": "Belfast"
     },
     {
         "id": 61,
         "round": "Food and Drink",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "How many calories are in a glass of water?",
+        "answer": "Zero"
     },
     {
         "id": 62,
         "round": "Food and Drink",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What nuts are used to make marzipan?",
+        "answer": "Almonds"
     },
     {
         "id": 63,
         "round": "Food and Drink",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What animal does venison meat come from?",
+        "answer": "Deer"
     },
     {
         "id": 64,
         "round": "Food and Drink",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What type of sugar is found in milk?",
+        "answer": "Lactose"
     },
     {
         "id": 65,
         "round": "Food and Drink",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 66,
-        "round": "Food and Drink",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 67,
-        "round": "Food and Drink",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 68,
-        "round": "Food and Drink",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 69,
-        "round": "Food and Drink",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 70,
-        "round": "Food and Drink",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What country does Paella come from?",
+        "answer": "Spain"
     },
     {
         "id": 71,
@@ -434,169 +224,19 @@
     {
         "id": 73,
         "round": "Science",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What is paleontology the study of?",
+        "answer": "Fossils"
     },
     {
         "id": 74,
         "round": "Science",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "What gas makes fizzy drinks fizzy?",
+        "answer": "Carbon dioxide"
     },
     {
         "id": 75,
         "round": "Science",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 76,
-        "round": "Science",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 77,
-        "round": "Science",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 78,
-        "round": "Science",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 79,
-        "round": "Science",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 80,
-        "round": "Science",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 81,
-        "round": "Nature",
-        "question": "What is the world’s largest land mammal?",
-        "answer": "Elephant"
-    },
-    {
-        "id": 82,
-        "round": "Nature",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 83,
-        "round": "Nature",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 84,
-        "round": "Nature",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 85,
-        "round": "Nature",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 86,
-        "round": "Nature",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 87,
-        "round": "Nature",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 88,
-        "round": "Nature",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 89,
-        "round": "Nature",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 90,
-        "round": "Nature",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 91,
-        "round": "Around the World",
-        "question": "Rio de Janeiro is a city in which South American country?",
-        "answer": "Brazil"
-    },
-    {
-        "id": 92,
-        "round": "Around the World",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 93,
-        "round": "Around the World",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 94,
-        "round": "Around the World",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 95,
-        "round": "Around the World",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 96,
-        "round": "Around the World",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 97,
-        "round": "Around the World",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 98,
-        "round": "Around the World",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 99,
-        "round": "Around the World",
-        "question": "Question text here",
-        "answer": "Answer text here"
-    },
-    {
-        "id": 100,
-        "round": "Around the World",
-        "question": "Question text here",
-        "answer": "Answer text here"
+        "question": "Who is best known for his theory of black holes?",
+        "answer": "Stephen Hawking"
     }
 ]
