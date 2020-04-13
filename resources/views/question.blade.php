@@ -17,10 +17,24 @@
                 <a href="/{{$quiz}}/answers/{{$nextQuestion}}" class="uk-button uk-button-large">
                     Next Answer
                 </a>
+                <script>
+                    window.onkeydown = function (e) {
+                        if (e.keyCode === RIGHT_ARROW) {
+                            window.location = '/{{$quiz}}/answers/{{$nextQuestion}}';
+                        }
+                    };
+                </script>
             @else
                 <a href="/{{$quiz}}/{{$nextQuestion}}" class="uk-button uk-button-large">
                     Next Question
                 </a>
+                <script>
+                    window.onkeydown = function (e) {
+                        if (e.keyCode === RIGHT_ARROW) {
+                            window.location = '/{{$quiz}}/{{$nextQuestion}}';
+                        }
+                    };
+                </script>
             @endif
         </p>
     @else
@@ -31,6 +45,13 @@
                 <a href="/{{$quiz}}/answers/1" class="uk-button uk-button-large">
                     Answers
                 </a>
+                <script>
+                    window.onkeydown = function (e) {
+                        if (e.keyCode === RIGHT_ARROW) {
+                            window.location = '/{{$quiz}}/answers/1';
+                        }
+                    };
+                </script>
             </p>
         @endif
     @endif
