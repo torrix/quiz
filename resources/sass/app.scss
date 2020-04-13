@@ -1,5 +1,12 @@
-// This is how you might override UIkit default variables
-$global-primary-background: #491165;
+$global-background: #222;
+
+$global-font-size: 48px;
+
+$global-xxlarge-font-size: 1rem;
+$global-xlarge-font-size: 1.5rem;
+$global-medium-font-size: 1.5rem;
+
+$global-font-family: "Sriracha", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 
 @import "~uikit/src/scss/variables-theme.scss";
 @import "~uikit/src/scss/mixins-theme.scss";

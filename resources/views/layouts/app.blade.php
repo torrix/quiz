@@ -3,20 +3,16 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
-
     <title>{{ config('app.name', 'Quiz') }}</title>
-
-    <!-- Styles -->
+    <link href='https://fonts.googleapis.com/css?family=Sriracha' rel='stylesheet' type='text/css'>
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
 <body>
 <div id="app">
     <main>
-        <div class="uk-section">
-            <div class="uk-container uk-text-center uk-text-lead">
+        <div class="uk-section uk-light">
+            <div class="uk-container uk-text-center">
                 @yield('content')
             </div>
         </div>
