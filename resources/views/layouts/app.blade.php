@@ -29,6 +29,6 @@
     <embed src="/public/mp3/bg.mp3" autostart="true" loop="true" hidden="true">
 </audio>
 --}}
-{{--<script src="{{ asset('js/app.js') }}" defer></script>--}}
+<script src="{{ asset('js/app.js') }}" defer></script>
 </body>
 </html>
