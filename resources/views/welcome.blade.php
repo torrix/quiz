@@ -1,12 +1,10 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1>General Knowledge</h1>
-    <h2>Question 1</h2>
+    <h1>Quiz Time</h1>
     <p>
-        Who is next in line to the British throne?
+        <a href="/test/1" class="uk-button uk-button-primary uk-button-large">
+            Start Playing
+        </a>
     </p>
-    <div class="uk-alert uk-alert-success">
-        Prince Charles
-    </div>
 @endsection
