@@ -20,7 +20,7 @@ html {
   /* 2 */
   -webkit-text-size-adjust: 100%;
   /* 3 */
-  background: #222;
+  background: transparent;
   color: #666;
 }
 
@@ -331,7 +331,7 @@ h6,
 
 h1,
 .uk-h1 {
-  font-size: 0.85rem;
+  font-size: 0.595rem;
   line-height: 1.2;
 }
 
@@ -370,7 +370,7 @@ h6,
 @media (min-width: 960px) {
   h1,
   .uk-h1 {
-    font-size: 1rem;
+    font-size: 0.7rem;
   }
 
   h2,
@@ -498,7 +498,7 @@ pre {
   padding: 10px;
   border: 1px solid #e5e5e5;
   border-radius: 3px;
-  background: #222;
+  background: transparent;
 }
 
 pre code {
@@ -1564,7 +1564,7 @@ button.uk-icon:not(:disabled) {
   height: 15px;
   width: 15px;
   border-radius: 500px;
-  background: #222;
+  background: transparent;
   border: 1px solid #cccccc;
 }
 
@@ -1577,7 +1577,7 @@ button.uk-icon:not(:disabled) {
   height: 15px;
   width: 15px;
   border-radius: 500px;
-  background: #222;
+  background: transparent;
   border: 1px solid #cccccc;
 }
 
@@ -1597,7 +1597,7 @@ button.uk-icon:not(:disabled) {
   height: 15px;
   width: 15px;
   border-radius: 500px;
-  background: #222;
+  background: transparent;
   border: 1px solid #cccccc;
 }
 
@@ -1799,7 +1799,7 @@ button.uk-icon:not(:disabled) {
   border: 0 none;
   /* 4 */
   padding: 0 10px;
-  background: #222;
+  background: transparent;
   color: #666;
   border: 1px solid #e5e5e5;
   transition: 0.2s ease-in-out;
@@ -1846,7 +1846,7 @@ button.uk-icon:not(:disabled) {
 .uk-select:focus,
 .uk-textarea:focus {
   outline: none;
-  background-color: #222;
+  background-color: transparent;
   color: #666;
   border-color: #1e87f0;
 }
@@ -2828,7 +2828,7 @@ select.uk-form-width-xsmall {
  */
 
 .uk-section-default {
-  background: #222;
+  background: transparent;
 }
 
 /*
@@ -3673,7 +3673,7 @@ select.uk-form-width-xsmall {
  */
 
 .uk-tile-default {
-  background: #222;
+  background: transparent;
 }
 
 /*
@@ -3809,7 +3809,7 @@ select.uk-form-width-xsmall {
  ========================================================================== */
 
 .uk-card-hover:not(.uk-card-default):not(.uk-card-primary):not(.uk-card-secondary):hover {
-  background: #222;
+  background: transparent;
   box-shadow: 0 14px 25px rgba(0, 0, 0, 0.16);
 }
 
@@ -3822,7 +3822,7 @@ select.uk-form-width-xsmall {
  */
 
 .uk-card-default {
-  background: #222;
+  background: transparent;
   color: #666;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
 }
@@ -3832,7 +3832,7 @@ select.uk-form-width-xsmall {
 }
 
 .uk-card-default.uk-card-hover:hover {
-  background-color: #222;
+  background-color: transparent;
   box-shadow: 0 14px 25px rgba(0, 0, 0, 0.16);
 }
 
@@ -4409,7 +4409,7 @@ select.uk-form-width-xsmall {
  */
 
 .uk-overlay-default {
-  background: rgba(34, 34, 34, 0.8);
+  background: rgba(0, 0, 0, 0.8);
 }
 
 /*
@@ -4457,7 +4457,7 @@ select.uk-form-width-xsmall {
  ========================================================================== */
 
 .uk-article-title {
-  font-size: 0.85rem;
+  font-size: 0.595rem;
   line-height: 1.2;
 }
 
@@ -4465,7 +4465,7 @@ select.uk-form-width-xsmall {
 
 @media (min-width: 960px) {
   .uk-article-title {
-    font-size: 1rem;
+    font-size: 0.7rem;
   }
 }
 
@@ -4843,7 +4843,7 @@ select.uk-form-width-xsmall {
 .uk-search-large .uk-search-input {
   height: 80px;
   background: transparent;
-  font-size: 1rem;
+  font-size: 0.7rem;
 }
 
 /*
@@ -5376,7 +5376,7 @@ ul.uk-nav-sub {
   width: 200px;
   /* 4 */
   padding: 25px;
-  background: #222;
+  background: transparent;
   color: #666;
   box-shadow: 0 5px 12px rgba(0, 0, 0, 0.15);
 }
@@ -5532,7 +5532,7 @@ ul.uk-nav-sub {
  ========================================================================== */
 
 .uk-navbar-dropbar {
-  background: #222;
+  background: transparent;
 }
 
 /*
@@ -6242,7 +6242,7 @@ ul.uk-nav-sub {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(34, 34, 34, 0.4);
+  background: rgba(0, 0, 0, 0.4);
   transition: background-color 0.1s ease-in-out;
 }
 
@@ -6444,7 +6444,7 @@ ul.uk-nav-sub {
   min-width: 200px;
   /* 4 */
   padding: 25px;
-  background: #222;
+  background: transparent;
   color: #666;
   box-shadow: 0 5px 12px rgba(0, 0, 0, 0.15);
 }
@@ -6631,7 +6631,7 @@ ul.uk-nav-sub {
   /* 3 */
   max-width: calc(100% - 0.01px) !important;
   /* 4 */
-  background: #222;
+  background: transparent;
   /* 5 */
   opacity: 0;
   transform: translateY(-100px);
@@ -6691,13 +6691,13 @@ ul.uk-nav-sub {
 
 .uk-modal-header {
   padding: 15px 30px;
-  background: #222;
+  background: transparent;
   border-bottom: 1px solid #e5e5e5;
 }
 
 .uk-modal-footer {
   padding: 15px 30px;
-  background: #222;
+  background: transparent;
   border-top: 1px solid #e5e5e5;
 }
 
@@ -6803,7 +6803,7 @@ ul.uk-nav-sub {
   top: 0;
   right: 0;
   padding: 20px;
-  background: #222;
+  background: transparent;
 }
 
 /* ========================================================================
@@ -10079,7 +10079,7 @@ iframe.uk-cover {
  ========================================================================== */
 
 .uk-background-default {
-  background-color: #222;
+  background-color: transparent;
 }
 
 .uk-background-muted {
@@ -15430,5 +15430,9 @@ iframe.uk-cover {
   h3 {
     page-break-after: avoid;
   }
+}
+
+body {
+  background-image: linear-gradient(0deg, #01324e 29%, #0b4960 67%);
 }
 

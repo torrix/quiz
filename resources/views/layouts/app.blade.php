@@ -7,28 +7,21 @@
     <title>{{ config('app.name', 'Quiz') }}</title>
     <link href='https://fonts.googleapis.com/css?family=Sriracha' rel='stylesheet' type='text/css'>
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <livewire:styles/>
 </head>
 <body>
-
-<script>
-    const LEFT_ARROW = 37;
-    const RIGHT_ARROW = 39;
-</script>
 <div id="app">
     <main>
-        <div class="uk-section uk-light">
-            <div class="uk-container uk-text-center">
+        <div class="uk-section uk-section-xsmall uk-light">
+            <div class="uk-container uk-container-expand uk-text-center">
                 @yield('content')
+                <hr>
+                <h1 class="uk-text-center uk-margin-remove">{{env('APP_NAME')}}</h1>
             </div>
         </div>
     </main>
 </div>
-{{--
-<audio autoplay loop>
-    <source src="/public/mp3/bg.mp3" type="audio/mp3">
-    <embed src="/public/mp3/bg.mp3" autostart="true" loop="true" hidden="true">
-</audio>
---}}
 <script src="{{ asset('js/app.js') }}" defer></script>
+<livewire:scripts/>
 </body>
 </html>

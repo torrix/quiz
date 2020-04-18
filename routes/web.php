@@ -9,5 +9,8 @@ Route::get(
     }
 );
 
+Route::livewire('/play', 'question');
+
 Route::get('/{quiz}/{question}', 'QuestionController@question');
 Route::get('/{quiz}/answers/{question}', 'QuestionController@answer');
+
