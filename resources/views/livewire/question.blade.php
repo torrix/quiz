@@ -1,6 +1,6 @@
 <div>
     <div>
-        @if ($question)
+        @if ($question > 0)
             <h2 class="uk-margin-remove">
                 {{$questions[$question - 1]['round']}}
             </h2>
@@ -17,7 +17,8 @@
                     </button>
                 </div>
                 <div class="uk-width-expand uk-text-center">
-                    <p data-uk-height-viewport="expand: true" class=" uk-flex uk-flex-center uk-flex-middle uk-text-center">
+                    <p data-uk-height-viewport="expand: true"
+                       class=" uk-flex uk-flex-center uk-flex-middle uk-text-center">
                         {{$questions[$question - 1]['question']}}
                     </p>
                 </div>
@@ -50,10 +51,6 @@
                 </button>
             </p>
         @endif
-        <audio autoplay loop>
-            <source src="/mp3/chronos.mp3" type="audio/mp3">
-        </audio>
-
         <script>
             document.addEventListener('keydown', event => {
                 if (event.code === 'ArrowLeft') {

@@ -6,8 +6,8 @@ use Livewire\Component;
 
 class Question extends Component
 {
-    public $question;
     public $questions;
+    public $question;
     public $showAnswers;
 
     protected $updatesQueryString = [
@@ -28,9 +28,15 @@ class Question extends Component
 
     public function next(): void
     {
-        if ($this->question === count($this->questions)) {
-            $this->question    = 0;
-            $this->showAnswers = ! $this->showAnswers;
+        $isLastQuestion = $this->question === count($this->questions);
+        if ($isLastQuestion && $this->showAnswers) {
+            $this->emit('redirect', '/');
+            return;
+        }
+
+        if ($isLastQuestion) {
+            $this->question    = 1;
+            $this->showAnswers = !$this->showAnswers;
         } else {
             $this->question++;
         }
@@ -38,7 +44,18 @@ class Question extends Component
 
     public function prev(): void
     {
-        $this->question--;
+        $isFirstQuestion = $this->question <= 1;
+        if ($isFirstQuestion && !$this->showAnswers) {
+            $this->emit('redirect', '/');
+            return;
+        }
+
+        if ($isFirstQuestion) {
+            $this->question    = count($this->questions);
+            $this->showAnswers = !$this->showAnswers;
+        } else {
+            $this->question--;
+        }
     }
 
     public function render()

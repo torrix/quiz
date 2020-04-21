@@ -17,11 +17,17 @@
                 @yield('content')
                 <hr>
                 <h1 class="uk-text-center uk-margin-remove">{{env('APP_NAME')}}</h1>
+                <div class="uk-text-small">Use the left and right arrow keys to navigate</div>
             </div>
         </div>
     </main>
 </div>
 <script src="{{ asset('js/app.js') }}" defer></script>
 <livewire:scripts/>
+<script>
+    window.livewire.on('redirect', redirect => {
+        window.location = redirect;
+    })
+</script>
 </body>
 </html>
